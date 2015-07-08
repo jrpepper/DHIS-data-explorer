@@ -713,7 +713,7 @@ crosslet.defaultConfig = {
         url: "https://api.tiles.mapbox.com/v4/joshpepper.mg92po4j/{z}/{x}/{y}.png?access_token=pk.eyJ1Ijoiam9zaHBlcHBlciIsImEiOiJuTWdrY2k4In0.HCCXtgU04scrTB_-ON4kjA",
       //accessToken: "--your key--",
       //id: 64657,
-      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://www.openstreetmap.org/copyright">ODbL</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>'
+      attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://www.openstreetmap.org/copyright">ODbL</a>'
     },
     view: {
       center: [51.505, -0.09],
